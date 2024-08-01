@@ -1,0 +1,27 @@
+Varun Rawat  
++91 7011209934  
+varunrawat343@gmail.com  
+Date: 1st Oct 2024
+
+Hiring Manager  
+Microsoft India  
+Hyderabad, India
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the internship opportunity at Microsoft India. As a Bachelor of Technology student in Computer Science at Vellore Institute of Technology (VIT) with a strong academic background and hands-on project experience, I am eager to contribute to and learn from a dynamic and innovative team at Microsoft.
+
+My coursework and projects have equipped me with a solid foundation in computer science principles and practical programming skills. Notably, I developed a TicTacToe game using Vanilla JavaScript and CSS, and a To-Do App leveraging the MERN stack (MongoDB, Express, React, Node.js). These projects not only honed my technical skills but also enhanced my problem-solving abilities and experience in full-stack development.
+
+In addition to my academic and project work, I have a robust coding background with over 630 problems solved across various platforms. My participation in competitive programming has sharpened my algorithmic thinking and coding efficiency, reflected in my Codeforces Pupil rating of 1200+ and significant problems solved on LeetCode. My technical skill set includes proficiency in C++, Python, JavaScript, TypeScript, and frameworks like React, Node.js, Django, and FastAPI. I am also familiar with data analysis tools such as pandas, NumPy, and Matplotlib.
+
+I am particularly drawn to Microsoft because of its commitment to innovation and excellence. I am excited about the opportunity to work on cutting-edge technologies and contribute to projects that impact millions of users worldwide. My goal is to leverage my skills and experiences to make meaningful contributions to your team while further developing my expertise in software development and technology.
+
+Thank you for considering my application. I am looking forward to the possibility of discussing how I can contribute to the Microsoft team and further my career in this exciting field.
+
+Sincerely,
+
+Varun Rawat
+
+
+

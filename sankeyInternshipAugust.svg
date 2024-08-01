@@ -1,0 +1,33 @@
+<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 8/1/2024, 10:09:56 PM -->
+<rect height="600" width="600" fill="#ffffff"></rect>
+<g transform="translate(101.82023,18)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 368.75C196.57978 368.75 196.57978 421.25 381.15956 421.25" fill="none" stroke-width="211.5" stroke="#17becf" opacity="0.45"><title>Applications → No response: 3</title></path>
+<path id="flow0" d="M12 227.75C196.57978 227.75 196.57978 70.25 381.15956 70.25" fill="none" stroke-width="70.5" stroke="#17becf" opacity="0.45"><title>Applications → In review: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="192.5" height="282" width="12" fill="#17becf" fill-opacity="1"><title>Applications:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="381.15956" y="35" height="70.5" width="12" fill="#1f77b4" fill-opacity="1"><title>In review:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="381.15956" y="315.5" height="211.5" width="12" fill="#ff7f0e" fill-opacity="1"><title>No response:
+3</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="198.17977" y="577" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-89.82023" y="312.4" width="88.18638" height="41.88" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.30197" y="333.5" font-weight="400" font-size="14.4px" dy="-5.42">Applications<tspan x="-6.30197" dy="19.32" font-weight="400" font-size="17.6px">4</tspan></text>
+<rect id="label1_bg" class="for_r1" x="394.79339" y="49.15" width="68.15825" height="41.88" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="399.46152" y="70.25" font-weight="400" font-size="14.4px" dy="-5.42">In review<tspan x="399.46152" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label2_bg" class="for_r2" x="394.79339" y="400.15" width="91.38637" height="41.88" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="start" x="399.46152" y="421.25" font-weight="400" font-size="14.4px" dy="-5.42">No response<tspan x="399.46152" dy="19.32" font-weight="400" font-size="17.6px">3</tspan></text>
+</g>
+</g></svg>
