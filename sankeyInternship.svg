@@ -1,0 +1,47 @@
+<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 8/12/2024, 1:56:54 PM -->
+<rect height="600" width="600" fill="#ffffff"></rect>
+<g transform="translate(101.82023,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 202.90349C73.66201 202.90349 73.66201 119.6 135.32402 119.6" fill="none" stroke-width="169.2" stroke="#17becf" opacity="0.45"><title>Applications → No response: 3</title></path>
+<path id="flow1" d="M12 343.90349C73.66201 343.90349 73.66201 470.6 135.32402 470.6" fill="none" stroke-width="112.8" stroke="#17becf" opacity="0.45"><title>Applications → Shortlisted: 2</title></path>
+<path id="flow2" d="M147.32402 470.6C208.98603 470.6 208.98603 467.35528 270.64804 467.35528" fill="none" stroke-width="112.8" stroke="#ff7f0e" opacity="0.45"><title>Shortlisted → Online Assessment: 2</title></path>
+<path id="flow3" d="M282.64804 410.95528v112.8L405.97206 522.12369v-112.8z" fill="#d62728" stroke-width="0.5" stroke="#d62728" opacity="0.45"><title>Online Assessment → Rejected: 2</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="118.30349" height="282" width="12" fill="#17becf" fill-opacity="1"><title>Applications:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="135.32402" y="35" height="169.2" width="12" fill="#1f77b4" fill-opacity="1"><title>No response:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="135.32402" y="414.2" height="112.8" width="12" fill="#ff7f0e" fill-opacity="1"><title>Shortlisted:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="270.64804" y="410.95528" height="112.8" width="12" fill="#2ca02c" fill-opacity="1"><title>Online Assessment:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="405.97206" y="409.32369" height="112.8" width="12" fill="#d62728" fill-opacity="1"><title>Rejected:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="198.17977" y="577" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-89.82023" y="238.2035" width="88.18638" height="41.88" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.30197" y="259.30349" font-weight="400" font-size="14.4px" dy="-5.42">Applications<tspan x="-6.30197" dy="19.32" font-weight="400" font-size="17.6px">5</tspan></text>
+<rect id="label1_bg" class="for_r1" x="148.95787" y="98.5" width="91.38635" height="41.88" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="153.62599" y="119.6" font-weight="400" font-size="14.4px" dy="-5.42">No response<tspan x="153.62599" dy="19.32" font-weight="400" font-size="17.6px">3</tspan></text>
+<rect id="label2_bg" class="for_r2" x="102.63715" y="449.49997" width="77.77387" height="41.88003" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="141.32402" y="470.6" font-weight="400" font-size="14.4px" dy="-5.42">Shortlisted<tspan x="141.32402" dy="19.32" font-weight="400" font-size="17.6px">2</tspan></text>
+<rect id="label3_bg" class="for_r3" x="210.34867" y="446.25525" width="133.7934" height="41.88003" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="middle" x="276.64804" y="467.35528" font-weight="400" font-size="14.4px" dy="-5.42">Online Assessment<tspan x="276.64804" dy="19.32" font-weight="400" font-size="17.6px">2</tspan></text>
+<rect id="label4_bg" class="for_r4" x="419.60589" y="444.62366" width="66.57387" height="41.88003" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="424.27402" y="465.72369" font-weight="400" font-size="14.4px" dy="-5.42">Rejected<tspan x="424.27402" dy="19.32" font-weight="400" font-size="17.6px">2</tspan></text>
+</g>
+</g></svg>
